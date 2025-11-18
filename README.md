@@ -1,11 +1,13 @@
-#*OBJECT DETECTION - ASL*#
+# *OBJECT DETECTION - ASL*
 
-##Custom Data set collection using opencv
+## Custom Data set collection using opencv
 
-##labelling by using git repo by tzutalin
+## labelling by using git repo by tzutalin
 
-##generating tf record
+## generating tf record
 
-##training
+## training
 
-##testing
+## testing
+
+## credits: nicknohack
