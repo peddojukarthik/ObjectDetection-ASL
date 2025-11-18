@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>A1.K (145).jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\A1.K (145).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>123</ymin>
+			<xmax>523</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

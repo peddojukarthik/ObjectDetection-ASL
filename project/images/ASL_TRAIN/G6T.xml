@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>G6T.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\G6T.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>963</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>G</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>482</ymin>
+			<xmax>650</xmax>
+			<ymax>839</ymax>
+		</bndbox>
+	</object>
+</annotation>

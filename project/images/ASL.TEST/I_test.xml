@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL.TEST</folder>
+	<filename>I_test.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL.TEST\I_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>5</ymin>
+			<xmax>124</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

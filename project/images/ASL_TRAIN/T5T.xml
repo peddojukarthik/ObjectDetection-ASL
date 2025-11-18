@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>T5T.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\T5T.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>963</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>292</ymin>
+			<xmax>619</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+</annotation>

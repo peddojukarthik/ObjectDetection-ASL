@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>L8T.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\L8T.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>963</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>218</ymin>
+			<xmax>786</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+</annotation>

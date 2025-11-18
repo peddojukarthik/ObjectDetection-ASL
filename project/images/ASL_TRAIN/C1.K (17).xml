@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>C1.K (17).jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\C1.K (17).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>207</ymin>
+			<xmax>508</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

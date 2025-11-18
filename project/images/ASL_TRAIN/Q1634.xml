@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>Q1634.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\Q1634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>113</ymin>
+			<xmax>134</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

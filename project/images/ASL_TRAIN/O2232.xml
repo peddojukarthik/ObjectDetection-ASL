@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>O2232.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\O2232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>58</ymin>
+			<xmax>184</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

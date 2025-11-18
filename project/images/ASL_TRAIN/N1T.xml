@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>N1T.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\N1T.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>870</width>
+		<height>1160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>393</ymin>
+			<xmax>404</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>O6T.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\O6T.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>963</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>416</ymin>
+			<xmax>492</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

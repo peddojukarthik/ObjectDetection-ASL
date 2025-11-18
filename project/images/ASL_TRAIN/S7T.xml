@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>S7T.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\S7T.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>963</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>385</ymin>
+			<xmax>516</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>

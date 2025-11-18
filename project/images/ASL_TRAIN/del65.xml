@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ASL_TRAIN</folder>
+	<filename>del65.jpg</filename>
+	<path>D:\sign-detection-small\project\images\ASL_TRAIN\del65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Delete</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>76</ymin>
+			<xmax>179</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>
